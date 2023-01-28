@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.circle-image{
+    margin: auto;
+    width: 200px;
+    
+    
+
+}
+
+.circle-image{
+    border-radius: 50%;
+    width: 300px;
+    transition: all 0.5s;
+    display: flex;
+   
+   
+    
+}
+
+.circle-image:hover{
+    border-radius: 0%;
+    transition: all 0.5s;
+   
+    
+}
+
+.test{
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+*{
+    background-color: black;
+}
